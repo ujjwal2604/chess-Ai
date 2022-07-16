@@ -41,10 +41,9 @@
 	* [The Algorithm](#the-algorithm)
 	* [Alpha-beta Pruning](#alpha-beta-pruning)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+
 
 
 
